@@ -1,0 +1,5 @@
+pretrained/*
+dataset/*
+log/images/default_experiment/*
+!/pretrained/
+!/dataset/
