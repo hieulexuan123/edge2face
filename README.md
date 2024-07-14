@@ -1,6 +1,6 @@
 # Edge2face
 
-Edge2face is a personal project that utilizes the Pix2pix GAN, implemented in PyTorch, to transform simple hand-drawn faces into realistic faces.
+Edge2face is a personal project that utilizes the [Pix2pix GAN](https://arxiv.org/abs/1611.07004), implemented in PyTorch, to transform simple hand-drawn faces into realistic faces.
 
 ## Dataset
 
